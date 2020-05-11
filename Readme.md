@@ -1,5 +1,6 @@
 # Text Analysis and Automatic Rating Prediction Using TED Data
-Author : Pavan Poosarla,  Springboard Data Science Career Track, 2019-20
+Author : Pavan Poosarla,  Capstone Project 1
+Springboard Data Science Career Track, 2019-20
 
 ## Description
 This project automatically categorizes TED talks into four most popular rating categories, namely, Fascinating, Beautiful, Informative and Funny. It also has an additional category, 'BadTalk' which is a catchall for talks not falling into any of the other categories. Model utilizes the entire transcript of the talk and also additional metadata including the attached tags, duration, type of TED event, etc. The audience reactions are also extracted from the transcript and are added as separate features to the model. This is completed as Capstone Project 1 for the Springboard data Science career track.
