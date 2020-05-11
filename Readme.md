@@ -13,5 +13,5 @@ All the files and code are organized into folders. See below for info on each fo
 ## Conclusion
 The project has significant pre processing of the data to extract audience reactions, get summary statistics of ratings, audience reactions, tags and ratings. Also has a Naive bayes based methodology to predict the wpords in transcript strongly predictive of each rating. Fianlly, three different supervised learning algorithms are used for prediction : 1. Naive bayes, 2. Random Forest, and 3. Logistic Regression. After optimization, Logistic regression seems to have the best performance from amongst the three models
 
-![](/reports/figures/ConfusionMatrix_final.png)
+![ConfusionMatrix] (reports/figures/ConfusionMatrix_final.png)
 
